@@ -1,0 +1,9 @@
+Connect the soil moisture sensor to the Arduino board.
+Connect the VCC pin of the sensor to the 5V pin of the Arduino, 
+the GND pin of the sensor to the GND pin of the Arduino,
+and the signal pin of the sensor to any of the analog
+input pins of the Arduino (for example, A0).
+
+Upload the following code to the Arduino board.
+This code reads the analog value from the soil 
+moisture sensor and converts it to a percentage value.
