@@ -11,3 +11,5 @@ Initialize the capacitive sensor using the CapacitiveSensor library.
 In the loop function, use the CapacitiveSensor library to read the value of the sensor.
 
 Use the value of the sensor to perform some action, such as turning on an LED or triggering a sound.
+
+CapacitiveSensor library is used to read the value of the sensor and perform an action based on the value. The value of the sensor is printed to the serial monitor and used to turn on or off the built-in LED on the Arduino board.
