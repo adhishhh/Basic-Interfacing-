@@ -7,3 +7,7 @@ input pins of the Arduino (for example, A0).
 Upload the following code to the Arduino board.
 This code reads the analog value from the soil 
 moisture sensor and converts it to a percentage value.
+
+
+Open the serial monitor in the Arduino IDE. You should see the moisture percentage values printed on the serial monitor. You can use these values to control other components (such as a water pump) based on the moisture level of the soil.
+Note: The actual mapping of the analog value to the moisture percentage may vary depending on the type of soil moisture sensor used. You may need to calibrate the sensor by measuring the moisture level of the soil at different values and adjusting the mapping accordingly.
