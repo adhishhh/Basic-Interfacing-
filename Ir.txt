@@ -1,0 +1,6 @@
+Connect the VCC pin of the IR sensor to the 5V pin of the Arduino.
+
+Connect the GND pin of the IR sensor to the GND pin of the Arduino.
+
+Connect the OUT pin of the IR sensor to any digital input pin of the Arduino.
+
